@@ -1,1 +1,8 @@
-This file was prepared for attendees of the workshop at PIL. 
+This file was prepared for attendees of the workshop at PIL.
+
+List of contents:
+
+	1. Information
+	2. Attendees
+	3. Instructions
+	4. Summary
