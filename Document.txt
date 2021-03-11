@@ -3,7 +3,33 @@ This file was prepared for attendees of the workshop at PIL.
 List of contents:
 
 	1. Information
+  
+  	This session is more of a simulation of a team. There is the main file that everyone will work on - 'Document.txt'.
+	Attendees will be divided into groups with 2-3 people and each group will work on that file.
+	Each group will have instructions what to do. What we want to achieve is:
+		- people will see how to clone files from repo
+		- often commits
+		- pushes/pulls
+		- pull request
+		- what happens when someone updates their version, request a pull, therefore, changes the master file	
+    
 	2. What do we want to learn?
-	3. Attendees
+  
+  3. Attendees
+
+    - Lu
+    - Mary
+    - Xiao
+    - Chengjun
+    - Maried
+    - Nikolaos
+    - Mohamed
+    - Santiago
+    - Abdulmalik
+    - Yongwen
+    - Laura
+    
 	4. Instructions
+  
 	5. Summary
+
