@@ -3,6 +3,7 @@ This file was prepared for attendees of the workshop at PIL.
 List of contents:
 
 	1. Information
-	2. Attendees
-	3. Instructions
-	4. Summary
+	2. What do we want to learn?
+	3. Attendees
+	4. Instructions
+	5. Summary
