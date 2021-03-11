@@ -14,5 +14,18 @@ List of contents:
 		- what happens when someone updates their version, request a pull, therefore, changes the master file	
 
 	2. Attendees
+
+		- Lu
+		- Mary
+		- Xiao
+		- Chengjun
+		- Maried
+		- Nikolaos
+		- Mohamed
+		- Santiago
+		- Abdulmalik
+		- Yongwen
+		- Laura
+
 	3. Instructions
 	4. Summary
