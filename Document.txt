@@ -2,7 +2,7 @@ This file was prepared for attendees of the workshop at PIL.
 
 List of contents:
 
-	1. Information
+1. Information
   
   	This session is more of a simulation of a team. There is the main file that everyone will work on - 'Document.txt'.
 	Attendees will be divided into groups with 2-3 people and each group will work on that file.
@@ -13,9 +13,9 @@ List of contents:
 		- pull request
 		- what happens when someone updates their version, request a pull, therefore, changes the master file	
     
-	2. What do we want to learn?
+2. What do we want to learn?
   
-  3. Attendees
+3. Attendees
 
     - Lu
     - Mary
@@ -29,7 +29,12 @@ List of contents:
     - Yongwen
     - Laura
     
-	4. Instructions
+4. Instructions
+
+	a) group 1
+	b) group 2
+	c) group 3
+	d) group 4
   
-	5. Summary
+5. Summary
 
