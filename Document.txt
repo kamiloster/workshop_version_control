@@ -6,14 +6,10 @@ List of contents:
   
   	This session is more of a simulation of a team. There is the main file that everyone will work on - 'Document.txt'.
 	Attendees will be divided into groups with 2-3 people and each group will work on that file.
-	Each group will have instructions what to do. What we want to achieve is:
-		- people will see how to clone files from repo
-		- often commits
-		- pushes/pulls
-		- pull request
-		- what happens when someone updates their version, request a pull, therefore, changes the master file	
-    
-2. What do we want to learn?
+	Each group will have instructions what to do. The instructions are simple - the might require googling some information and copy+paste in the document.
+	
+		
+	
   
 3. Attendees
 
@@ -32,8 +28,14 @@ List of contents:
 4. Instructions
 
 	a) feature 1
+	Feature 1 title is: Cultural differences between two countries
+	
 	b) feature 2
+	Feature 2 title is: Differences between Matlab and Python
+	
 	c) feature 3
+	Feature 3 title is: 
+	
 	d) feature 4
   
 5. Summary
