@@ -31,10 +31,10 @@ List of contents:
     
 4. Instructions
 
-	a) group 1
-	b) group 2
-	c) group 3
-	d) group 4
+	a) feature 1
+	b) feature 2
+	c) feature 3
+	d) feature 4
   
 5. Summary
 
