@@ -2,16 +2,15 @@ This file was prepared for attendees of the workshop at PIL.
 
 List of contents:
 
-1. Information
-  
-  	This session is more of a simulation of a team. There is the main file that everyone will work on - 'Document.txt'.
-	Attendees will be divided into groups with 2-3 people and each group will work on that file.
-	Each group will have instructions what to do. The instructions are simple - the might require googling some information and copy+paste in the document.
+1. Introduction
+
+This session is a second part for the workshop organised on the 10th February 2021: Version Control in a team with Git and GitHub.
+Today, we will focus more on a pratical aspects: some of the best practices in working in a team.
+Attendees are divided into 4 groups (namely feature 1, feature 2, feature 3 and feature 4) so that we can simulate a team's working environment.
+Below, instructions for each group are included. 
 	
-		
-	
   
-3. Attendees
+2. Attendees
 
     - Lu
     - Mary
@@ -25,18 +24,76 @@ List of contents:
     - Yongwen
     - Laura
     
-4. Instructions
+3. Instructions
 
-	a) feature 1
-	Feature 1 title is: Cultural differences between two countries
+	a) Feature 1: Cultural differences between two countries.
+
+	Please read the instruction entirely first before doing any changes.
 	
-	b) feature 2
-	Feature 2 title is: Differences between Matlab and Python
+	I would like you to add a new section at the bottom which will discuss 3 of the cultural differences between some of the two countries (write something interesting about 
+	these differences!).
+	It should be fairly simple for you to work it out. If you really can't think of anything - write anything.
 	
-	c) feature 3
-	Feature 3 title is: 
+	Remember what I said earlier? Commit as often as possible, fetch as often as possible, check for differences, and communicate. We want to prevent conflicts, right?!
+	This is a great opportunity for you to practice committing - after each cultural difference. So you should have 3 commits at least.
 	
-	d) feature 4
-  
-5. Summary
+	When you're done, feel free to open a pull request - don't forget to write some message to me so I know what's up!
+	Also, don't forget to assign me as a reviewer - I need to know it's ready.
+	
+	When you're done with that, I will review your request and you should recieve information from me (I will almost certainly ask you to review your pull request).
+	
+	I believe you will be able to take it from here, right?
+	
+	b) Feature 2: Differences between Matlab and Python
+	
+	Please read the instruction entirely first before doing any changes.
+	
+	I would like you to add a new section at the bottom which will discuss 3 of the differences between Matlab and Python (write something a bit more about these differences 
+	than just listing them).
+	It should be fairly simple for you to work it out. If you really can't think of anything - write anything.
+	Remember what I said earlier? Commit as often as possible, fetch as often as possible, check for differences, and communicate. We want to prevent conflicts, right?!
+	This is a great opportunity for you to practice committing - after each cultural difference. So you should have 3 commits at least.
+	
+	When you're done, feel free to open a pull request - don't forget to write some message to me so I know what's up!
+	Also, don't forget to assign me as a reviewer - I need to know it's ready.
+	
+	When you're done with that, I will review your request and you should recieve information from me (I will almost certainly ask you to review your pull request).
+	
+	I believe you will be able to take it from here, right?
+	
+	
+	c) Feature 3: Differences between AstraZeneca and Pfizer Covid-19 vaccine
+	
+	Please read the instruction entirely first before doing any changes.
+	
+	I would like you to add a new section at the bottom which will discuss 3 of the differences between Covid-19 vaccine made by Pfizer and AstraZeneca (write something a 
+	bit more about these differences than just listing them).
+	It should be fairly simple for you to work it out. If you really can't think of anything - write anything.
+	Remember what I said earlier? Commit as often as possible, fetch as often as possible, check for differences, and communicate. We want to prevent conflicts, right?!
+	This is a great opportunity for you to practice committing - after each cultural difference. So you should have 3 commits at least.
+	
+	When you're done, feel free to open a pull request - don't forget to write some message to me so I know what's up!
+	Also, don't forget to assign me as a reviewer - I need to know it's ready.
+	
+	When you're done with that, I will review your request and you should recieve information from me (I will almost certainly ask you to review your pull request).
+	
+	I believe you will be able to take it from here, right?
+	
+	
+	d) Feature 4: Advantages and disadvantages of working from home
+	
+	Please read the instruction entirely first before doing any changes.
+	
+	I would like you to add a new section at the bottom which will discuss 3 of the advantages and/or disadvantages of working from home (write something a 
+	bit more about these differences than just listing them).
+	It should be fairly simple for you to work it out. If you really can't think of anything - write anything.
+	Remember what I said earlier? Commit as often as possible, fetch as often as possible, check for differences, and communicate. We want to prevent conflicts, right?!
+	This is a great opportunity for you to practice committing - after each cultural difference. So you should have 3 commits at least.
+	
+	When you're done, feel free to open a pull request - don't forget to write some message to me so I know what's up!
+	Also, don't forget to assign me as a reviewer - I need to know it's ready.
+	
+	When you're done with that, I will review your request and you should recieve information from me (I will almost certainly ask you to review your pull request).
+	
+	I believe you will be able to take it from here, right?
 
