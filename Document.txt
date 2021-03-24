@@ -31,5 +31,4 @@ List of contents:
     
 	4. Instructions
   
-	5. Summary
-
+Case 2: Now we have case 2 where we are going to mess something up!!!
