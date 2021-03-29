@@ -10,8 +10,8 @@ Attendees are divided into 4 groups (namely feature 1, feature 2, feature 3 and 
 Below, instructions for each group are included. 
 	
   
-2. Attendees
 
+3. Instructions
     - Lu
     - Mary
     - Xiao (absent)
@@ -20,13 +20,14 @@ Below, instructions for each group are included.
     - Nikolaos
     - Mohamed
     - Santiago
+	- Kamil
     - Abdulmalik
     - Yongwen
     - Laura
     
-3. Instructions
+2. Attendees
 
-	a) Feature 1: Cultural differences between two countries.
+	a) Feature 2: Cultural differences between two countries.
 
 	Please read the instruction entirely first before doing any changes.
 	
@@ -44,7 +45,7 @@ Below, instructions for each group are included.
 	
 	I believe you will be able to take it from here, right?
 	
-	b) Feature 2: Differences between Matlab and Python
+	b) Feature 3: Differences between Matlab and Python
 	
 	Please read the instruction entirely first before doing any changes.
 	
@@ -62,7 +63,7 @@ Below, instructions for each group are included.
 	I believe you will be able to take it from here, right?
 	
 	
-	c) Feature 3: Differences between AstraZeneca and Pfizer Covid-19 vaccine
+	c) Feature 1: Differences between AstraZeneca and Pfizer Covid-19 vaccine
 	
 	Please read the instruction entirely first before doing any changes.
 	
@@ -80,7 +81,7 @@ Below, instructions for each group are included.
 	I believe you will be able to take it from here, right?
 	
 	
-	d) Feature 4: Advantages and disadvantages of working from home
+	d) Feature 1: Advantages and disadvantages of working from home
 	
 	Please read the instruction entirely first before doing any changes.
 	
