@@ -10,8 +10,8 @@ Attendees are divided into 4 groups (namely feature 1, feature 2, feature 3 and 
 Below, instructions for each group are included. 
 	
   
-2. Attendees
 
+3. Instructions
     - Lu
     - Mary
     - Xiao (absent)
@@ -24,7 +24,7 @@ Below, instructions for each group are included.
     - Yongwen
     - Laura
     
-3. Instructions
+2. Attendees
 
 	a) Feature 1: Cultural differences between two countries.
 
