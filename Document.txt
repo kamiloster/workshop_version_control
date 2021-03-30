@@ -94,3 +94,10 @@ Let's mess something up!
 
 test test test test test
 
+
+Feature 1: Venezuela and Nigeria
+  i. Nigerian music is excellent, while Venezuelan music is sensual.
+ ii. Venezuelan food is not spicy. Nigerian food is made of spice.
+iii. Nigeria and Venezuela are similar in every other way :D
+ iv. Nigeria is crazy, but maybe, just maybe Venezuela is crazier  
+  v. Everyday/regular food is cheap and widely available in Nigeria, people resort to the black market in Venezuela
