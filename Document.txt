@@ -90,14 +90,16 @@ Below, instructions for each group are included.
 	I believe you will be able to take it from here, right?
 
 
-Let's mess something up!
-
-test test test test test
+Feature 1: Venezuela and Nigeria
+  i. Nigerian music is excellent, while Venezuelan music is sensual.
+ ii. Venezuelan food is not spicy. Nigerian food is made of spice.
+iii. Nigeria and Venezuela are similar in every other way :D
+ iv. Nigeria is crazy, but maybe, just maybe Venezuela is crazier  
+  v. Everyday/regular food is cheap and widely available in Nigeria, people resort to the black market in Venezuela
+  
 
 Differences betwen Python and Matlab.
-
 1. Matlab is closed software (you need a licence), while Python is an open source sofware.
-
 2. Python has a great variety of libraries ready to use, while Matlab doesn't.
-
 3. Matlab is user more in Academia, while Python is mostly used in Industry.
+
