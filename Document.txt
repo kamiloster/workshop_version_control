@@ -98,3 +98,4 @@ Differences betwen Python and Matlab.
 
 1. Matlab is closed software (you need a licence), while Python is an open source sofware.
 
+2. Python has a great variety of libraries ready to use, while Matlab doesn't.
